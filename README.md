@@ -1,72 +1,256 @@
-<h1 align="center">Hi, I'm Khushi Shah 👋</h1>
+<div align="center">
 
-<p align="center">
-  <strong>PW IOI Pune SOT | MSU | Software Developer</strong>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=14,17,18,24,30&text=Khushi%20Shah&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Open%20Source%20Contributor%20%7C%20B.Tech%20CSE%20Student&descAlignY=60&animation=fadeIn"/>
 
-<p align="center">
-  <strong>GitHub Profile README</strong> — a living snapshot of who I am, what I'm learning, and the projects I build.
-</p>
+# Hi, I'm Khushi Shah 👋
 
-<p align="center">
-  <img src="https://img.shields.io/badge/GITHUB-KHUSHI%20SHAH-black?style=flat-square&logo=github" alt="GitHub" />
-  <img src="https://img.shields.io/badge/LINKEDIN-KHUSHI%20SHAH-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn" />
-</p>
+### *Building scalable web applications that solve real-world problems.*
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white" alt="Markdown" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1200&center=true&vCenter=true&width=650&color=E75480&lines=Frontend+Developer;Open+Source+Contributor;React+Learner;AI+Enthusiast;Always+Learning+Something+New"/>
 
----
 
-## 👨‍💻 About the Developer
+<!-- <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="250"/> -->
 
-| Property | Details |
-| :--- | :--- |
-| **Name** | Khushi Shah |
-| **Headline** | PW IOI Pune SOT \| MSU \| Software Developer |
-| **Location** | Pune, Maharashtra, India |
-| **Education** | B.Tech — Computer Science & Engineering, **PW Institute of Innovation (PW IOI)** |
-| **Also associated with** | Medhavi Skills University (MSU) |
-| **Current Role** | Frontend Team Member at **PW LeapX** |
+
+<a href="https://github.com/shahkhushi0307">
+<img src="https://img.shields.io/badge/GitHub-shahkhushi0307-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/khushi-shah-31257b381/">
+<img src="https://img.shields.io/badge/LinkedIn-Khushi%20Shah-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:khushishah0318@gmail.com">
+<img src="https://img.shields.io/badge/Email-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-## Short Bio
+# 💫 About Me
 
-Hello, I am Khushi Shah. I am currently pursuing a B.Tech degree in Computer Science & Engineering at PW IOI. I am highly motivated and enthusiastic about software development, web technologies, and applying engineering skills to build intelligent, real-world solutions in collaborative environments.
+I'm **Khushi Shah**, a B.Tech Computer Science student at **PW Institute of Innovation (PW IOI) × Medhavi Skills University**, Pune.
 
-### Highlights
+I'm passionate about building modern web applications, contributing to Open Source, and continuously exploring technologies like Artificial Intelligence, Data Science and Full Stack Development.
 
-* 🎓 **B.Tech student** at PW Institute of Innovation (PW IOI), Pune & Medhavi Skills University
-* 💻 **Frontend Team Member** at PW LeapX, focusing on building responsive user interfaces
-* 🤖 **AI Innovator:** Developed *Nirogi-G1*, an intelligent healthcare assistant using Agentic AI
-* 🛠️ **Versatile Programmer:** Skilled across foundational engineering stacks including C, C++, Java, and JavaScript
-* 🗣️ **Multilingual Communicator:** Fluent in English, Hindi, Gujarati, and Marathi
-
----
-
-## 🛠️ Skills
-
-| Category | Skills |
-| :--- | :--- |
-| **Frontend** | HTML, CSS, JavaScript |
-| **Programming** | C, C++, Java, JavaScript |
-| **Database** | MySQL |
-| **Version Control** | Git, GitHub, VS Code |
-| **Professional** | Problem Solving, Teamwork, Communication |
+- 🎓 Completed **1st Year** | Entering **2nd Year**
+- 💻 Frontend Developer
+- 🌍 Active Open Source Contributor
+- 🚀 Building real-world applications
+- 🤖 Exploring AI, Data Science & Backend Development
+- 📍 Pune, Maharashtra, India
 
 ---
 
-## 🧳 Tech Stack
+# 🚀 Currently Working On
 
-```text
-Languages     : C · C++ · Java · JavaScript · HTML · CSS · SQL · Markdown
-Focus Areas   : Software Development · Frontend Development · UI Improvements · Agentic AI
-Platforms     : GitHub · Vercel · VS Code
-Tools         : Git · MySQL
+- 🌐 Full Stack Development
+- 🤖 AI & Data Science
+- 🌍 Open Source Contributions
+- ⚛️ Building projects with React & Vite
+- 🌱 Strengthening Data Structures
+
+---
+
+# 🏆 Achievements
+
+- 🏅 IBM SkillsBuild Certification – Learn Programming with JavaScript
+- 🥉 3rd Place – PW IOI Web Development Kick Start (HTML & CSS)
+- 🎯 Event Coordinator – RIFT Open Innovation Hackathon
+
+---
+
+# 💼 Experience
+
+## Frontend Team Member — PW LeapX
+
+- Developed responsive UI using HTML, CSS and JavaScript
+- Worked collaboratively with developers through Git & GitHub
+- Contributed to Open Source repositories
+- Built clean and responsive user interfaces
+
+## Event Coordinator — RIFT (PW IOI)
+
+- Coordinated one of PW IOI's Open Innovation Hackathons
+- Managed participant engagement and event activities
+- Collaborated with organizers and volunteers
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,mysql"/>
+
+</div>
+
+### Frontend
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,vite"/>
+
+</div>
+
+### Database
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+</div>
+
+### Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,vercel,netlify"/>
+
+</div>
+
+---
+
+# 📚 Currently Learning
+
+- ⚛️ React Ecosystem
+- 🌐 Backend Development
+- 🐍 Python for Data Science
+- 🤖 Artificial Intelligence
+- 🔐 Cyber Security
+
+---
+
+# 🌍 Open Source
+
+I enjoy collaborating with developers worldwide and contributing to community-driven projects that create real impact while continuously improving my development skills.
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Tier--1-Elite-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/17+-PRs_Merged-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Global_Rank-74-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/6+-Projects_Contributed-green?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shahkhushi0307&show_icons=true&hide_border=true&theme=rose_pine&title_color=E75480&icon_color=E75480"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahkhushi0307&layout=compact&hide_border=true&theme=rose_pine&title_color=E75480"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=shahkhushi0307&theme=transparent&hide_border=true&ring=E75480&fire=E75480"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shahkhushi0307&bg_color=ffffff00&color=E75480&line=E75480&point=F48FB1&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 GitHub Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahkhushi0307&theme=rose_pine"/>
+
+</div>
+
+---
+
+# 📂 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/shahkhushi0307/Math-Gravity-Painter">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shahkhushi0307&repo=Math-Gravity-Painter&theme=rose_pine"/>
+</a>
+
+<a href="https://github.com/OJT-Capstone-Projects/Interactive-quiz-app">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=OJT-Capstone-Projects&repo=Interactive-quiz-app&theme=rose_pine"/>
+</a>
+
+<br><br>
+
+<a href="https://github.com/OJT-Capstone-Projects/Github-developer-explorer">
+<img width="60%" src="https://github-readme-stats.vercel.app/api/pin/?username=OJT-Capstone-Projects&repo=Github-developer-explorer&theme=rose_pine"/>
+</a>
+
+</div>
+
+---
+
+# 🏅 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=shahkhushi0307&theme=algolia&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+
+</div>
+
+---
+
+# 🎮 Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/shahkhushi0307/shahkhushi0307/output/pacman-contribution-graph.svg" width="95%"/>
+
+</div>
+
+---
+
+# 📈 Open To
+
+- 🤝 Open Source Collaboration
+- 💼 Internship Opportunities
+- 🚀 Frontend Development Projects
+- 💡 Innovative Ideas & Hackathons
+- 🌍 Community Contributions
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/shahkhushi0307">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/khushi-shah-31257b381/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:khushishah0318@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## ⭐ Thanks for visiting my profile!
+
+If you enjoy my work or would like to collaborate on exciting projects, feel free to connect with me.
+
+**Let's build something impactful together! 🚀**
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=14,17,18,24,30"/>
+
+</div>
