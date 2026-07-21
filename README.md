@@ -188,11 +188,9 @@ I enjoy collaborating with developers worldwide and contributing to community-dr
 
 # 🏅 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=shahkhushi0307&theme=algolia&column=4&margin-w=15&margin-h=15&no-frame=true"/>
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shahkhushi0307&theme=radical&no-frame=true&no-bg=true&margin-w=15"/>
+</p>
 
 ---
 
@@ -200,7 +198,9 @@ I enjoy collaborating with developers worldwide and contributing to community-dr
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/shahkhushi0307/shahkhushi0307/output/pacman-contribution-graph.svg" width="95%"/>
+<!-- <img src="https://raw.githubusercontent.com/shahkhushi0307/shahkhushi0307/output/pacman-contribution-graph.svg" width="95%"/> -->
+<img src="https://raw.githubusercontent.com/shahkhushi0307/shahkhushi0307/output/pacman-contribution-graph.svg" width="95%"/> 
+
 
 </div>
 
