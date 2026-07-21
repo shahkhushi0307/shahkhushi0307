@@ -169,25 +169,17 @@ I enjoy collaborating with developers worldwide and contributing to community-dr
 
 ---
 
+
 # 📂 Featured Projects
 
-<div align="center">
+- 🧮 **Math Gravity Painter**  
+  https://github.com/shahkhushi0307/Math-Gravity-Painter
 
-<a href="https://github.com/shahkhushi0307/Math-Gravity-Painter">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shahkhushi0307&repo=Math-Gravity-Painter&theme=rose_pine"/>
-</a>
+- ❓ **Interactive Quiz App**  
+  https://github.com/OJT-Capstone-Projects/Interactive-quiz-app
 
-<a href="https://github.com/OJT-Capstone-Projects/Interactive-quiz-app">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=OJT-Capstone-Projects&repo=Interactive-quiz-app&theme=rose_pine"/>
-</a>
-
-<br><br>
-
-<a href="https://github.com/OJT-Capstone-Projects/Github-developer-explorer">
-<img width="60%" src="https://github-readme-stats.vercel.app/api/pin/?username=OJT-Capstone-Projects&repo=Github-developer-explorer&theme=rose_pine"/>
-</a>
-
-</div>
+- 👨‍💻 **GitHub Developer Explorer**  
+  https://github.com/OJT-Capstone-Projects/Github-developer-explorer
 
 ---
 
