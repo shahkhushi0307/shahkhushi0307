@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=14,17,18,24,30&text=Khushi%20Shah&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Open%20Source%20Contributor%20%7C%20B.Tech%20CSE%20Student&descAlignY=60&animation=fadeIn"/>
@@ -51,7 +52,7 @@ I'm passionate about building modern web applications, contributing to Open Sour
 - 🌐 Full Stack Development
 - 🤖 AI & Data Science
 - 🌍 Open Source Contributions
-- ⚛️ Building projects with React & Vite
+- ⚛️ Building projects with React & Vite & Next.js
 - 🌱 Strengthening Data Structures
 
 ---
