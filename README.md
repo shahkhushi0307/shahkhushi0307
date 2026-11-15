@@ -50,7 +50,7 @@ I'm passionate about building modern web applications, contributing to Open Sour
 # 🚀 Currently Working On
 
 - 🌐 Full Stack Development
-- 🤖 AI & Data Science
+- 🤖 AI & Data Science & Data Analytics
 - 🌍 Open Source Contributions
 - ⚛️ Building projects with React & Vite & Next.js
 - 🌱 Strengthening Data Structures
