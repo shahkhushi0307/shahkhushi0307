@@ -12,12 +12,12 @@
 
 <!-- <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="250"/> -->
 
-<br>
+
 <a href="https://github.com/shahkhushi0307">
 <img src="https://img.shields.io/badge/GitHub-shahkhushi0307-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<br>
+
 <a href="https://github.com/sumittiwari1302">
   <img src="https://komarev.com/ghpvc/?username=sumittiwari1302&label=Profile%20Views&color=5B21B6&style=for-the-badge" alt="Profile Views"/>
 </a>
