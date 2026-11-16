@@ -26,7 +26,7 @@
 </a>
 
 
-<a href="mailto:khushishah0318@gmail.com">
+<a href="mailto:khushishah030707@gmail.com">
 <img src="https://img.shields.io/badge/Email-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
