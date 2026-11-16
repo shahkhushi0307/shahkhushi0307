@@ -24,7 +24,7 @@
 <a href="https://www.linkedin.com/in/khushi-shah-31257b381/">
 <img src="https://img.shields.io/badge/LinkedIn-Khushi%20Shah-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
-<br>
+
 
 <a href="mailto:khushishah0318@gmail.com">
 <img src="https://img.shields.io/badge/Email-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
