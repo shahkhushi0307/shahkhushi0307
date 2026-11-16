@@ -7,7 +7,7 @@
 
 ### *Building scalable web applications that solve real-world problems.*
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1200&center=true&vCenter=true&width=650&color=E75480&lines=Full Stack+Developer;Open+Source+Contributor;React+Learner;AI+Enthusiast;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1200&center=true&vCenter=true&width=650&color=E75480&lines=Full-Stack+Developer;Open+Source+Contributor;React+Learner;AI+Enthusiast;Always+Learning+Something+New"/>
 
 
 <!-- <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="250"/> -->
