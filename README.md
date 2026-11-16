@@ -106,7 +106,7 @@ I'm passionate about building modern web applications, contributing to Open Sour
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgressql"/>
 
 </div>
 
