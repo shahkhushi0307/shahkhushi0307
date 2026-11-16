@@ -18,7 +18,7 @@
 </a>
 
 
-<a href="https://github.com/sumittiwari1302">
+<a href="https://github.com/shahkhushi0307">
   <img src="https://komarev.com/ghpvc/?username=sumittiwari1302&label=Profile%20Views&color=5B21B6&style=for-the-badge" alt="Profile Views"/>
 </a>
 <a href="https://www.linkedin.com/in/khushi-shah-31257b381/">
