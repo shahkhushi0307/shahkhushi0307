@@ -243,7 +243,7 @@ I enjoy collaborating with developers worldwide and contributing to community-dr
 
 ## ⭐ Thanks for visiting my profile!
 
-If you enjoy my work or would like to collaborate on exciting projects, feel free to connect with me.
+If you enjoy my work or would like to collaborate on exciting projects, feel free to connect with me on linkedin.
 
 **Let's build something impactful together! 🚀**
 
